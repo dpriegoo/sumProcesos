@@ -1,6 +1,6 @@
 package sumProcesos;
 
-public class principal {
+public class sumador {
 
 	public static void main(String[] args) {
 
